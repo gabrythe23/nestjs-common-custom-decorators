@@ -20,7 +20,7 @@
   "version": "1.0.0",
   "description": "custom nest decorators for nestjs-custom-decorators",
   "scripts": {
-    "build": "tsc -p nestjs-custom-decorators",
+    "build": "tsc",
     "test": "jest"
   },
   "devDependencies": {
